@@ -16,6 +16,21 @@ keypoints:
   Systems), with the opportunity for doing this at the DTC building if you wish."
 ---
 
+Students in the SABS:R3 CDT will undertake a year-long software engineering project as 
+part of their first year. These projects are developed jointly by our academic and 
+industrial partners, and selected through an open competition judged by members of the 
+SABS R3 External Advisory Board. The project teams are mentored throughout the year by 
+SABS staff and the groups putting forward the projects, with regular coding sessions 
+built into the programme. All project outputs will be released to the research community 
+under a 3-Clause BSD license, together if possible with a joint publication written by 
+the students and the academic and industrial researchers involved. At the end of the 
+first year, these projects will be demonstrated to the industrial partners and the new 
+cohort of first-year students. Each team will continue to support these open source 
+projects over the four years of their programme, allowing the development of a practical 
+understanding of how software is sustained.
+
+There are four different projects for 2020/2021, each described under the headings below. 
+Each student will already be pre-assigned to a project via canvas.
 
 ## Project 1 - Automated Data Extraction to Future-Proof Therapeutic and Natural 
 Antibody Databases
@@ -177,14 +192,21 @@ will gain expertise with the DICOM medical imaging standard (data format and val
 networking) and best practice in the pharma industry (software validation, regulation, 
 data integrity).
 
+## Schedule
 
-## Hand-in
+The projects will begin in the week of the 26th October. We will have an general 
+introductory talk on the projects at 9am, and then at 10am the students will meet their 
+academic and industrial supervisors the 26th October, and will be given introductory 
+talks and background materials relevant for their project. The full week of the 26-30th 
+October will be devoted to the projects, with the exact schedule determined on an 
+individual project basis.
 
-Your should hand-in your URL for the GitHub repository for each group, and the URL to 
-where your web application is deployed. Please email these, along with the names of 
-those in your group, to 
-[martin.robinson@cs.ox.ac.uk](mailto:martin.robinson@cs.ox.ac.uk) by 5:30pm on Friday 
-30th Oct.
+After this week, you will be able to work on the projects every Wednesday (except during 
+the Cells and Systems module from 2-13th Nov), with space being available at the DTC to 
+work in person with your group. It will not be necessary to be at the DTC in person if 
+you do not wish, and we will ensure that you are able to dial in remotely if necessary. 
+You will also have the full week of the 14-18th Dec to work on the projects.
+
 
 {% include links.md %}
 
