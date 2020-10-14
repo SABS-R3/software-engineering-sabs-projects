@@ -32,8 +32,7 @@ understanding of how software is sustained.
 There are four different projects for 2020/2021, each described under the headings below. 
 Each student will already be pre-assigned to a project via canvas.
 
-## Project 1 - Automated Data Extraction to Future-Proof Therapeutic and Natural 
-Antibody Databases
+## Project 1 - Automated Data Extraction to Future-Proof Therapeutic and Natural Antibody Databases
 
 **Company**: Seb Kelm (UCB), James Snowden (UCB), Anna Vangone (Roche), Iain Moal (GSK)
 
@@ -106,6 +105,7 @@ drug discovery similar to an augmented intelligence system for medicinal chemist
 ## Project 3 - Development of Open Source Epidemiology Modelling Software 
 
 **Company**: Dr Annabelle Lemenuel-Diot (Roche)
+
 **Supervisors**: David Gavaghan, Ben Lambert, Martin Robinson and Robin Thompson 
 
 **Project description**:  
@@ -159,7 +159,8 @@ source.
 ## Project 4 - Extensible Clinical Imaging QC Tool
 
 **Company**: GE Healthcare
-**Supervisors**: Chris Page, Zak Catherall, Vicente Grau, Martin Robinson
+
+**Supervisors**: Chris Page (GE), Zak Catherall (GE), Vicente Grau, Martin Robinson
 
 **Project description**:  
 
@@ -195,9 +196,9 @@ data integrity).
 ## Schedule
 
 The projects will begin in the week of the 26th October. We will have an general 
-introductory talk on the projects at 9am, and then at 10am the students will meet their 
-academic and industrial supervisors the 26th October, and will be given introductory 
-talks and background materials relevant for their project. The full week of the 26-30th 
+introductory talk on the projects at 9am on the Monday, and then at 10am the students 
+will meet their academic and industrial supervisors and will be given introductory talks 
+and background materials relevant for their project. The full week of the 26-30th 
 October will be devoted to the projects, with the exact schedule determined on an 
 individual project basis.
 
@@ -205,7 +206,8 @@ After this week, you will be able to work on the projects every Wednesday (excep
 the Cells and Systems module from 2-13th Nov), with space being available at the DTC to 
 work in person with your group. It will not be necessary to be at the DTC in person if 
 you do not wish, and we will ensure that you are able to dial in remotely if necessary. 
-You will also have the full week of the 14-18th Dec to work on the projects.
+You will also have the full week of the 14-18th Dec, and 1st-5th March 2021, to work on 
+the projects.
 
 
 {% include links.md %}
