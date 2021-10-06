@@ -77,17 +77,19 @@ literature mining.
 **Project description**: 
 
 Drug discovery is a multi-parameter optimization problem where many properties must 
-simultaneously be met in order for a new compound to fulfill the desired target compound 
-profile (TCP) according to indication and target. The TCP compiles the characteristics 
-the molecules must achieve in order to be of clinical interest.
+simultaneously be met for a new compound to fulfill the desired target compound profile 
+(TCP) according to indication and target. The TCP compiles the physicochemical, 
+pharmacological and metabolic properties the molecules must achieve in order to be of 
+clinical interest.
 
-Building upon the ideas behind The Drug Discovery Game [1] by Brian McGuiness and Robert 
-Merrit, a Velcro-based game, we want to create an improved computer game that aims to 
-mimic the initial workflow of a medicinal chemist on achieving a desired TCP and it will 
-be based on drug discovery cases published in literature.
+Building upon the prototype developed by SABS 2020 Drug Discovery Game students, and 
+ideas behind The Drug Discovery Game [1] by Brian McGuiness and Robert Merrit (a 
+Velcro-based game), we will develop an improved computer game that aims to mimic the 
+initial workflow of a medicinal chemist on achieving a desired TCP and it will be based 
+on drug discovery cases published in literature.
 
-The game should cover several phases of the drug discovery process. Provided only with 
-data from a high throughput screening (HTS), or by using an information driven approach 
+The game covers several phases of the drug discovery process. Provided only with data 
+from a high throughput screening (HTS), or by using an information driven approach 
 starting with competitor compounds, the initial focus will be a hit expansion or a hit 
 to lead identification phase. More complex processes of lead optimization and clinical 
 candidate discovery will be added to the game in later stages.
@@ -100,98 +102,76 @@ On the other hand, it will allow the training of artificial agents which can be 
 assist learning medicinal chemists in making strategic decisions at different stages of 
 drug discovery similar to an augmented intelligence system for medicinal chemists.
 
-[1] McGuinness, Brian F.  and Merritt, J. Robert: “Illustrating Medicinal Chemistry Through an Interactive Demo: The Drug Discovery Game”, Poster presented at the 2016 Fall American Chemical Society Meeting. https://youtu.be/uH4DioPcbog
+[1] McGuinness, Brian F.  and Merritt, J. Robert: “Illustrating Medicinal Chemistry 
+    Through an Interactive Demo: The Drug Discovery Game”, Poster presented at the 2016 
+    Fall American Chemical Society Meeting. https://youtu.be/uH4DioPcbog
 
-## Project 3 - Development of Open Source Epidemiology Modelling Software 
 
-**Company**: Dr Annabelle Lemenuel-Diot (Roche)
+## Project 3 - Cost effectiveness of HPV vaccination in the Asia-Pacific Region
 
-**Supervisors**: David Gavaghan, Ben Lambert, Martin Robinson and Robin Thompson 
+**Company**: Merieux Institute, Laos, Laos Centers for Disease Control and Prevention 
+(CDC)
+
+**Supervisors**: Lisa White, Ben Lambert, David Gavaghan, Phetsavanh Chanthavilay, Shwe 
+Sin Kyaw, Merieux Institute, Laos supervisor TBC, CDC supervisor TBC
 
 **Project description**:  
 
-The current Covid-19 pandemic has highlighted the crucial role that mathematical and 
-computational modelling can play in understanding the spread of infectious diseases, and 
-in assessing the possible impact of any mitigation strategies that are put in place to 
-control that spread. However, in shining a spotlight on this area of research, attention 
-has inevitably turned to the manner in which the mathematical models and numerical 
-algorithms have been instantiated in software. In common with almost all current 
-academic codes, most of the software for modelling epidemic spread that was in existence 
-at the start of the pandemic was developed principally to underpin the publication of 
-academic papers. Code development therefore followed the standard norms in place within 
-the discipline so that much of the subsequent criticism from professional research 
-software engineers was perhaps unfair. A more valid criticism might be to argue that 
-there is a very pressing need to develop robust open source modelling software that can 
-be used in the future. 
+This project would build on the infrastructure of SABS students in 2020-21 who worked to 
+produce a web-based application for simulating epidemics using transmission dynamics 
+models. This project aims to create an professionally engineered open-source codebase 
+for dynamic age-stratified epidemiological-economic modelling for HPV in Laos (currently 
+coded in Berkeley-Madonna). This would result in software which allows a user to select 
+a set of inputs specific to the disease, then run the model for a range of scenarios. 
+The software would then display metrics representing a cost effectiveness analysis and 
+visualise the model outputs. The software would ideally include a graphical user 
+interface to allow interactive exploration of the models aimed at public health 
+policymakers. It may also allow users to upload epidemiological data and fit their 
+models to them using either optimisation or Bayesian approaches. The tool would also 
+allow automatic generation of a written report using the model results in a language and 
+style appropriate for a health policymaker.
 
-The goal of the proposed software project is to develop just such a robust software 
-platform for the modelling of the transmission of infectious diseases. Software will be 
-developed initially with the aim of providing a pedagogical tool for use in universities 
-(and secondary schools) and in industrial settings in teaching both the modelling of 
-epidemic spread and the importance of using robust software engineering principles. We 
-will use the current Covid-19 pandemic as the key example due to the ready availability 
-of extensive data. We will start with the simplest discrete and continuous models that 
-simply look at the evolution in time of disease spread, and will extend this to 
-consideration of spatial variation as the project develops. Particular attention will be 
-paid to the key issues of the sensitivity of model outputs and predictions to model 
-parameters, and to the inverse problem of estimating key parameters from data. Extensive 
-tutorial examples (as Jupyter Notebooks) will be developed. Our ultimate goal will be to 
-reproduce robust and sustainable versions of some of the key current codes that are 
-being used to model the current pandemic. 
+The resulting code from the project would contribute to a larger research project led by 
+Shwe sin and Phetsavanh to model the cost-effectiveness of HPV vaccination in the 
+Asia-Pacific region.
 
-To allow the platform to be used as a teaching tool, a subsidiary project will also 
-develop a web app that allows interactive use of the models. Particular attention will 
-be paid to the visualisation of outputs so that the material is accessible to secondary 
-school students.  
 
-Much of the underpinning mathematical modelling, numerical algorithms, and statistical 
-inference techniques will be common with the PKPD modelling project that was undertaken 
-in collaboration with Roche in the last academic year (and that is still ongoing). This 
-existing software will allow much more rapid progress to be made on this epidemiology 
-modelling project.
-
-The longer-term goal is to implement the Covid-19 transmission model currently being 
-developed by Roche within the web-app. This model is an SEIR ODE-model with compartments 
-for groups with differing infectivity. The app could be used to forward simulate 
-epidemics across different countries and also be used for inference when given a data 
-source.
-
-## Project 4 - Extensible Clinical Imaging QC Tool
+## Project 4 - Computer Vision-based Clinical Image Quality Control
 
 **Company**: GE Healthcare
 
-**Supervisors**: Chris Page (GE), Zak Catherall (GE), Vicente Grau, Martin Robinson
+**Supervisors**: Chris Page (GE), Zak Catherall (GE), , Vicente Grau, Martin 
+Robinson
 
-**Project description**:  
+**Project description**: 
 
 Imaging in clinical trials typically involves collecting data from multiple sites 
 centrally for analysis.  Data quality can vary considerably due to differences in 
-technology and local procedures.  Ingestion requires robust deidentification (to meet 
-privacy and GCP regulations) and quality checks (to ensure adherence to the trial 
-protocol) , both of which can be painstakingly manual.  Initiatives providing data to 
-researchers, such as UK Biobank or CSDR, perform further recoding on egress.  These 
-processes benefit from automatic checks and updates on image (meta)data according to 
-user-defined rules.
+technology and local procedures.  Ingestion requires quality checks (to ensure adherence 
+to the trial protocol) and robust deidentification (to meet privacy and GCP 
+regulations), which can be painstakingly manual.
 
-Existing tools are typically proprietary or focussed on a specific modality or 
-therapeutic area.  We believe data quality is fundamental and such tools are 
-precompetitive: a standardised, open, extensible approach benefits the research 
-community.
+A 2020-21 SABS:R3 project developed a standardised, open, extensible framework to check 
+and update image metadata according to user-defined rules.  It functions as an in-stream 
+device, with accepted data being exported to a repository, and rejected data routed for 
+follow-up.
 
-We envision an in-stream device that receives DICOM data, accepts or rejects based on 
-configurable criteria (specific to the trial, site, anatomy and/or modality), performs 
-corrections or redactions, and finally exports to a repository.
-
-The focus will be on checking, updating and tracking metadata according to a defined 
-schema (real-world examples will be provided).  The software shall have a plugin 
-architecture, allowing e.g. image QC modules to be added in future
+The aim of this project is to develop a plug-in to extend QC to the pixel data, using 
+computer vision techniques to characterise the images.  Specific QC tasks may include 
+checking for “burned-in” annotation (that often contains personally-identifiable 
+information) and anatomical region/completeness (e.g. to label the images as head, 
+chest, abdomen, or pelvis; or label organs).  Possible extensions include automatically 
+masking identifiable information and extending QC checks e.g. to detecting use of 
+contrast or modality-specific artefacts (particularly for MRI).
 
 GE will provide domain expertise, documented user requirements and regular feedback.  We 
 also propose “day-in-the-life” sessions, giving a flavour of our roles in software 
-engineering and pharmaceutical R&D. Beyond a grounding in software engineering, students 
-will gain expertise with the DICOM medical imaging standard (data format and validation, 
-networking) and best practice in the pharma industry (software validation, regulation, 
-data integrity).
+engineering and pharmaceutical R&D.
+
+Beyond a grounding in software engineering, students will gain expertise with medical 
+image processing, computer vision techniques and libraries (e.g. OpenCV) and best 
+practice in the pharma industry (software validation, regulation, data integrity).
+
 
 ## Schedule
 
