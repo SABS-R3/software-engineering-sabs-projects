@@ -9,7 +9,7 @@ objectives:
 - "Explain how the software engineering projects will work."
 keypoints:
 - "You will have already been sorted into your projects groups via canvas." 
-- "You will meet the supervisors for the projects on the Monday 26th October, who will 
+- "You will meet the supervisors for the projects on the Monday 25th October, who will 
   give presentations on each project, and this whole week will be spent getting up to 
   speed on your project" 
 - "Generally, you will work on the projects every wednesday (not during Cells and 
