@@ -109,11 +109,9 @@ drug discovery similar to an augmented intelligence system for medicinal chemist
 
 ## Project 3 - Cost effectiveness of HPV vaccination in the Asia-Pacific Region
 
-**Company**: Merieux Institute, Laos, Laos Centers for Disease Control and Prevention 
-(CDC)
+**Company**: Roche
 
-**Supervisors**: Lisa White, Ben Lambert, David Gavaghan, Phetsavanh Chanthavilay, Shwe 
-Sin Kyaw, Merieux Institute, Laos supervisor TBC, CDC supervisor TBC
+**Supervisors**: Ben Lambert, David Gavaghan, Dr Annabelle Lemenuel-Diot (Roche)
 
 **Project description**:  
 
@@ -175,19 +173,16 @@ practice in the pharma industry (software validation, regulation, data integrity
 
 ## Schedule
 
-The projects will begin in the week of the 26th October. We will have an general 
-introductory talk on the projects at 9am on the Monday, and then at 10am the students 
-will meet their academic and industrial supervisors and will be given introductory talks 
-and background materials relevant for their project. The full week of the 26-30th 
-October will be devoted to the projects, with the exact schedule determined on an 
-individual project basis.
+The projects will begin in the week of the 25th October. Each group will be contacted by 
+the supervisors for their project for an introductory meeting and/or a timetable for the 
+week. The full week of the 25-29th October will be devoted to the projects, with the 
+exact schedule determined on an individual project basis.
 
 After this week, you will be able to work on the projects every Wednesday (except during 
-the Cells and Systems module from 2-13th Nov), with space being available at the DTC to 
-work in person with your group. It will not be necessary to be at the DTC in person if 
-you do not wish, and we will ensure that you are able to dial in remotely if necessary. 
-You will also have the full week of the 14-18th Dec, and 1st-5th March 2021, to work on 
-the projects.
+the Cells and Systems module), with space being available at the DTC to work in person 
+with your group. It will not be necessary to be at the DTC in person if you do not wish, 
+and we will ensure that you are able to dial in remotely if necessary. You will also 
+have the full week of the 13-17th Dec, and 1st-5th March 2021, to work on the projects.
 
 
 {% include links.md %}
